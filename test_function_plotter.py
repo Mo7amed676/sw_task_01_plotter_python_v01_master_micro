@@ -1,4 +1,4 @@
-# test
+# testing function
 
 import pytest
 from PySide2.QtCore import Qt
