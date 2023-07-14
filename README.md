@@ -17,7 +17,7 @@ Run the application:
 
 python main.py
 
-#Usage
+# Usage
 
 Enter a mathematical function of x in the input field. The function can contain operators (+, -, *, /, ^), parentheses for grouping, and the variable "x". For example:
 
