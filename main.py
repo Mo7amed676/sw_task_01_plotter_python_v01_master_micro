@@ -15,7 +15,6 @@ import re
 class Window(QWidget):
     def __init__(self):
         super().__init__()
-
         self.initUI()
 
     def initUI(self):
@@ -131,3 +130,4 @@ if __name__ == "__main__":
     window = Window()
     window.show()
     app.exec_()
+
