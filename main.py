@@ -1,7 +1,7 @@
-# Press Shift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 # Press Ctrl+F8 to toggle the breakpoint.
 # Use a breakpoint in the code line below to debug your script.
+
 # @ created by eng.Mohamed Mahmoud
 
 from PySide2.QtWidgets import QApplication, QVBoxLayout, QPushButton, QLineEdit, QLabel, QWidget, QMessageBox

@@ -11,7 +11,7 @@ git clone https://github.com/Mo7amed676/sw_task_01_plotter_python_v01_master_mic
 
 Install the required dependencies using pip:
 
-pip install -r requirements.txt
+pip install <lib>
 
 Run the application:
 
@@ -47,4 +47,4 @@ Minimum x-value: 0
 
 Maximum x-value: 10
 
-
+etc...
