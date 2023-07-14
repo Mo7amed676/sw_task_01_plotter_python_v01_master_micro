@@ -91,7 +91,7 @@ class Window(QWidget):
             return False
 
         min_x = float(self.min_x.text())
-        max_x = float(self.max_x.text())
+        max_x = float(self.max_x.text()) 
 
         if min_x >= max_x:
             QMessageBox.warning(self, 'Invalid Input',
@@ -125,7 +125,7 @@ class Window(QWidget):
         plt.show()
 
 
-# Press the green button in the gutter to run the script.
+# Press the green button in the gutter to run the script
 if __name__ == "__main__":
     app = QApplication([])
     window = Window()
