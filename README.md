@@ -1,5 +1,5 @@
 # sw_task_01_plotter_python_v01_master_micro
-Python function plotter
+## Python function plotter
 
 This is a simple function plotter application built with Python and PySide2. It allows users to plot mathematical functions and visualize them using the matplotlib library.
 
@@ -11,7 +11,7 @@ git clone https://github.com/Mo7amed676/sw_task_01_plotter_python_v01_master_mic
 
 Install the required dependencies using pip:
 
-pip install < lib >
+pip install matplotlib pytest
 
 Run the application:
 
